@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 # API key and location setup
-API_KEY = '9007cf4ca14b408e9b1142448230712'
+API_KEY = 'your_apikey_here'
 LOCATION = 'Mumbai'
 
 # Function to fetch weather data from APIg
